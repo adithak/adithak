@@ -11,16 +11,14 @@
 <br>
 
 
-- Enthusiastic and results-driven Node.js developer with over 3 years of professional experience.
-Proficient in building robust web applications and APIs using modern JavaScript technologies.
-Strong problem-solving skills and a passion for continuous learning and development.
+- 
 
 
 <!--- 👨‍💻 I’m currently learning Javascript -->
 
 - 📫 How to reach me: adithak59@gmail.com 
 
-- ⚡ Fun fact I am funny😅
+
 
 
 
