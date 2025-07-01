@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, <img src="![Image](https://github.com/user-attachments/assets/baf47bb3-4181-4468-84b4-68ea33b693db)" height="45" alt="✋"> I'm Adith A K</h1>
+<h1 align="center">Hi,  I'm Adith A K</h1>
 
 <h3 align="center"><a href="https://github.com/delvinjoseph13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 
