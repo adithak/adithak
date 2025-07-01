@@ -1,6 +1,6 @@
 ![logo](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)<br>
 
-<h1 align="center">Hi, <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="45" alt="✋"> I'm Delvin Joseph</h1>
+<h1 align="center">Hi, <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="45" alt="✋"> I'm Adith A K</h1>
 
 <h3 align="center"><a href="https://github.com/delvinjoseph13"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 
@@ -11,11 +11,14 @@
 <br>
 
 
-- 🔭 I’m currently student in Kvg enginerring college,sullia
+- Enthusiastic and results-driven Node.js developer with over 3 years of professional experience.
+Proficient in building robust web applications and APIs using modern JavaScript technologies.
+Strong problem-solving skills and a passion for continuous learning and development.
+
 
 <!--- 👨‍💻 I’m currently learning Javascript -->
 
-- 📫 How to reach me: delvinjoseph221@gmail.com
+- 📫 How to reach me: adithak59@gmail.com 
 
 - ⚡ Fun fact I am funny😅
 
@@ -99,7 +102,7 @@
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=delvinjoseph&show_icons=true&locale=en&layout=compact" alt="delvinjoseph13" /></p> 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=delvinjoseph13&show_icons=true&locale=en&" alt="delvinjoseph13" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=delvinjoseph13&theme=" alt="delvinjoseph13" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=adithak&theme=" alt="adithak" /></p>
  
 
   
